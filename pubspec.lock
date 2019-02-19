@@ -99,6 +99,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.1.2"
+  city_pickers:
+    dependency: "direct dev"
+    description:
+      name: city_pickers
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "0.1.5"
   code_builder:
     dependency: transitive
     description:
@@ -270,6 +277,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.11.3+2"
+  lpinyin:
+    dependency: transitive
+    description:
+      name: lpinyin
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.0.7"
   matcher:
     dependency: transitive
     description:
@@ -442,7 +456,7 @@ packages:
       name: source_span
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "1.5.3"
+    version: "1.5.4"
   stack_trace:
     dependency: transitive
     description:

@@ -28,6 +28,7 @@ dev_dependencies:
   build_runner: ^1.0.0
   json_serializable: ^2.0.0
   build_verify: ^1.0.0
+  city_pickers: ^0.1.5
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
